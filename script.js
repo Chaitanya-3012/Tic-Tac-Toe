@@ -15,7 +15,6 @@ const reloader = () => {
   location.reload();
 };
 
-
 /* The lines `resetButton.addEventListener("click", reloader);` and
 `newButton.addEventListener("click", reloader);` are adding event listeners to the resetButton and
 newButton elements respectively. */
